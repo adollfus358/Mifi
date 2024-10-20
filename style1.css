@@ -8,10 +8,6 @@ h1{
     font-size: 60px;
 }
 
-p{
-    color: rgb(219, 247, 60);
-    font-size: 20px;
-}
 
 div a{
     text-align: center;
@@ -26,5 +22,9 @@ div a{
 .hirobrine{
     display: flex;
     justify-content: center;
+}
 
+p{
+    background-color: white;
+    color: black;
 }
