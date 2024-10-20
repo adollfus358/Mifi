@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: white;
+    font-size: 70px;
+}
+
+div a{
+    color: yellow;
+    font-size: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    
+}
+
+body{
+    background-image: url(https://dm0qx8t0i9gc9.cloudfront.net/previews/image/rDtN98Qoishumwih/brown-dirt-minecraft-pattern_PMNW.jpg);
+}
