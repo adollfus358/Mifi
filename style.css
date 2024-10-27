@@ -17,3 +17,7 @@ div a{
 body{
     background-image: url(https://dm0qx8t0i9gc9.cloudfront.net/previews/image/rDtN98Qoishumwih/brown-dirt-minecraft-pattern_PMNW.jpg);
 }
+
+div a:hover{
+    -webkit-text-stroke: 1px blue;
+}
